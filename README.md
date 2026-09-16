@@ -56,8 +56,8 @@ movie-rec-main/
 ### 2. Clone & install
 
 ```bash
-git clone https://github.com/your-username/movie-rec.git
-cd movie-rec
+git clone https://github.com/harsh5102005/Movie-Recommendation-System.git
+cd Movie-Recommendation-System
 
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
